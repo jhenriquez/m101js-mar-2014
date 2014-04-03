@@ -1,0 +1,2963 @@
+{ State: 'California', Temperature: 81 }
+{ State: 'California', Temperature: 80 }
+{ State: 'California', Temperature: 80 }
+{ State: 'California', Temperature: 79 }
+{ State: 'California', Temperature: 79 }
+{ State: 'California', Temperature: 79 }
+{ State: 'California', Temperature: 78 }
+{ State: 'California', Temperature: 78 }
+{ State: 'California', Temperature: 78 }
+{ State: 'California', Temperature: 76 }
+{ State: 'California', Temperature: 76 }
+{ State: 'California', Temperature: 76 }
+{ State: 'California', Temperature: 75 }
+{ State: 'California', Temperature: 75 }
+{ State: 'California', Temperature: 75 }
+{ State: 'California', Temperature: 75 }
+{ State: 'California', Temperature: 75 }
+{ State: 'California', Temperature: 75 }
+{ State: 'California', Temperature: 74 }
+{ State: 'California', Temperature: 74 }
+{ State: 'California', Temperature: 74 }
+{ State: 'California', Temperature: 74 }
+{ State: 'California', Temperature: 74 }
+{ State: 'California', Temperature: 73 }
+{ State: 'California', Temperature: 73 }
+{ State: 'California', Temperature: 73 }
+{ State: 'California', Temperature: 73 }
+{ State: 'California', Temperature: 72 }
+{ State: 'California', Temperature: 72 }
+{ State: 'California', Temperature: 72 }
+{ State: 'California', Temperature: 72 }
+{ State: 'California', Temperature: 72 }
+{ State: 'California', Temperature: 72 }
+{ State: 'California', Temperature: 71 }
+{ State: 'California', Temperature: 71 }
+{ State: 'California', Temperature: 71 }
+{ State: 'California', Temperature: 71 }
+{ State: 'California', Temperature: 71 }
+{ State: 'California', Temperature: 71 }
+{ State: 'California', Temperature: 70 }
+{ State: 'California', Temperature: 70 }
+{ State: 'California', Temperature: 70 }
+{ State: 'California', Temperature: 70 }
+{ State: 'California', Temperature: 70 }
+{ State: 'California', Temperature: 70 }
+{ State: 'California', Temperature: 69 }
+{ State: 'California', Temperature: 69 }
+{ State: 'California', Temperature: 69 }
+{ State: 'California', Temperature: 69 }
+{ State: 'California', Temperature: 68 }
+{ State: 'California', Temperature: 68 }
+{ State: 'California', Temperature: 68 }
+{ State: 'California', Temperature: 68 }
+{ State: 'California', Temperature: 68 }
+{ State: 'California', Temperature: 68 }
+{ State: 'California', Temperature: 68 }
+{ State: 'California', Temperature: 68 }
+{ State: 'California', Temperature: 68 }
+{ State: 'California', Temperature: 67 }
+{ State: 'California', Temperature: 67 }
+{ State: 'California', Temperature: 67 }
+{ State: 'California', Temperature: 67 }
+{ State: 'California', Temperature: 67 }
+{ State: 'California', Temperature: 67 }
+{ State: 'California', Temperature: 67 }
+{ State: 'California', Temperature: 67 }
+{ State: 'California', Temperature: 67 }
+{ State: 'California', Temperature: 67 }
+{ State: 'California', Temperature: 66 }
+{ State: 'California', Temperature: 66 }
+{ State: 'California', Temperature: 66 }
+{ State: 'California', Temperature: 66 }
+{ State: 'California', Temperature: 66 }
+{ State: 'California', Temperature: 66 }
+{ State: 'California', Temperature: 65 }
+{ State: 'California', Temperature: 65 }
+{ State: 'California', Temperature: 65 }
+{ State: 'California', Temperature: 65 }
+{ State: 'California', Temperature: 65 }
+{ State: 'California', Temperature: 65 }
+{ State: 'California', Temperature: 65 }
+{ State: 'California', Temperature: 65 }
+{ State: 'California', Temperature: 65 }
+{ State: 'California', Temperature: 65 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 64 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 63 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 62 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 61 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 60 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 59 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 58 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 57 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 56 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 55 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 54 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 53 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 52 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 51 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 50 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 49 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 48 }
+{ State: 'California', Temperature: 47 }
+{ State: 'California', Temperature: 47 }
+{ State: 'California', Temperature: 47 }
+{ State: 'California', Temperature: 47 }
+{ State: 'California', Temperature: 47 }
+{ State: 'California', Temperature: 47 }
+{ State: 'California', Temperature: 47 }
+{ State: 'California', Temperature: 47 }
+{ State: 'California', Temperature: 47 }
+{ State: 'California', Temperature: 46 }
+{ State: 'California', Temperature: 46 }
+{ State: 'California', Temperature: 46 }
+{ State: 'California', Temperature: 46 }
+{ State: 'California', Temperature: 46 }
+{ State: 'California', Temperature: 46 }
+{ State: 'California', Temperature: 46 }
+{ State: 'California', Temperature: 46 }
+{ State: 'California', Temperature: 46 }
+{ State: 'California', Temperature: 45 }
+{ State: 'California', Temperature: 45 }
+{ State: 'California', Temperature: 45 }
+{ State: 'California', Temperature: 45 }
+{ State: 'California', Temperature: 45 }
+{ State: 'California', Temperature: 45 }
+{ State: 'California', Temperature: 45 }
+{ State: 'California', Temperature: 44 }
+{ State: 'California', Temperature: 44 }
+{ State: 'California', Temperature: 44 }
+{ State: 'California', Temperature: 44 }
+{ State: 'California', Temperature: 44 }
+{ State: 'California', Temperature: 44 }
+{ State: 'California', Temperature: 44 }
+{ State: 'California', Temperature: 43 }
+{ State: 'California', Temperature: 43 }
+{ State: 'California', Temperature: 42 }
+{ State: 'California', Temperature: 42 }
+{ State: 'California', Temperature: 42 }
+{ State: 'California', Temperature: 42 }
+{ State: 'California', Temperature: 41 }
+{ State: 'Florida', Temperature: 83 }
+{ State: 'Florida', Temperature: 82 }
+{ State: 'Florida', Temperature: 82 }
+{ State: 'Florida', Temperature: 82 }
+{ State: 'Florida', Temperature: 82 }
+{ State: 'Florida', Temperature: 81 }
+{ State: 'Florida', Temperature: 81 }
+{ State: 'Florida', Temperature: 81 }
+{ State: 'Florida', Temperature: 80 }
+{ State: 'Florida', Temperature: 80 }
+{ State: 'Florida', Temperature: 79 }
+{ State: 'Florida', Temperature: 79 }
+{ State: 'Florida', Temperature: 79 }
+{ State: 'Florida', Temperature: 79 }
+{ State: 'Florida', Temperature: 79 }
+{ State: 'Florida', Temperature: 79 }
+{ State: 'Florida', Temperature: 79 }
+{ State: 'Florida', Temperature: 79 }
+{ State: 'Florida', Temperature: 79 }
+{ State: 'Florida', Temperature: 79 }
+{ State: 'Florida', Temperature: 79 }
+{ State: 'Florida', Temperature: 78 }
+{ State: 'Florida', Temperature: 78 }
+{ State: 'Florida', Temperature: 78 }
+{ State: 'Florida', Temperature: 78 }
+{ State: 'Florida', Temperature: 78 }
+{ State: 'Florida', Temperature: 78 }
+{ State: 'Florida', Temperature: 78 }
+{ State: 'Florida', Temperature: 78 }
+{ State: 'Florida', Temperature: 78 }
+{ State: 'Florida', Temperature: 78 }
+{ State: 'Florida', Temperature: 78 }
+{ State: 'Florida', Temperature: 77 }
+{ State: 'Florida', Temperature: 77 }
+{ State: 'Florida', Temperature: 77 }
+{ State: 'Florida', Temperature: 77 }
+{ State: 'Florida', Temperature: 77 }
+{ State: 'Florida', Temperature: 76 }
+{ State: 'Florida', Temperature: 76 }
+{ State: 'Florida', Temperature: 76 }
+{ State: 'Florida', Temperature: 76 }
+{ State: 'Florida', Temperature: 75 }
+{ State: 'Florida', Temperature: 75 }
+{ State: 'Florida', Temperature: 75 }
+{ State: 'Florida', Temperature: 75 }
+{ State: 'Florida', Temperature: 75 }
+{ State: 'Florida', Temperature: 75 }
+{ State: 'Florida', Temperature: 75 }
+{ State: 'Florida', Temperature: 75 }
+{ State: 'Florida', Temperature: 75 }
+{ State: 'Florida', Temperature: 75 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 74 }
+{ State: 'Florida', Temperature: 73 }
+{ State: 'Florida', Temperature: 73 }
+{ State: 'Florida', Temperature: 73 }
+{ State: 'Florida', Temperature: 73 }
+{ State: 'Florida', Temperature: 73 }
+{ State: 'Florida', Temperature: 73 }
+{ State: 'Florida', Temperature: 73 }
+{ State: 'Florida', Temperature: 73 }
+{ State: 'Florida', Temperature: 73 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 72 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 71 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 70 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 69 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 68 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 67 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 66 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 65 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 64 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 63 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 62 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 61 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 60 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 59 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 58 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 57 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 56 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 55 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 54 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 53 }
+{ State: 'Florida', Temperature: 52 }
+{ State: 'Florida', Temperature: 52 }
+{ State: 'Florida', Temperature: 52 }
+{ State: 'Florida', Temperature: 52 }
+{ State: 'Florida', Temperature: 52 }
+{ State: 'Florida', Temperature: 52 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 51 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 50 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 49 }
+{ State: 'Florida', Temperature: 48 }
+{ State: 'Florida', Temperature: 48 }
+{ State: 'Florida', Temperature: 48 }
+{ State: 'Florida', Temperature: 48 }
+{ State: 'Florida', Temperature: 48 }
+{ State: 'Florida', Temperature: 48 }
+{ State: 'Florida', Temperature: 48 }
+{ State: 'Florida', Temperature: 48 }
+{ State: 'Florida', Temperature: 48 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 47 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 46 }
+{ State: 'Florida', Temperature: 45 }
+{ State: 'Florida', Temperature: 45 }
+{ State: 'Florida', Temperature: 45 }
+{ State: 'Florida', Temperature: 45 }
+{ State: 'Florida', Temperature: 45 }
+{ State: 'Florida', Temperature: 45 }
+{ State: 'Florida', Temperature: 45 }
+{ State: 'Florida', Temperature: 45 }
+{ State: 'Florida', Temperature: 44 }
+{ State: 'Florida', Temperature: 44 }
+{ State: 'Florida', Temperature: 44 }
+{ State: 'Florida', Temperature: 44 }
+{ State: 'Florida', Temperature: 43 }
+{ State: 'Florida', Temperature: 43 }
+{ State: 'Florida', Temperature: 43 }
+{ State: 'Florida', Temperature: 43 }
+{ State: 'Florida', Temperature: 43 }
+{ State: 'Florida', Temperature: 43 }
+{ State: 'Florida', Temperature: 43 }
+{ State: 'Florida', Temperature: 42 }
+{ State: 'Florida', Temperature: 42 }
+{ State: 'Florida', Temperature: 42 }
+{ State: 'Florida', Temperature: 42 }
+{ State: 'Florida', Temperature: 42 }
+{ State: 'Florida', Temperature: 42 }
+{ State: 'Florida', Temperature: 42 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 41 }
+{ State: 'Florida', Temperature: 40 }
+{ State: 'Florida', Temperature: 40 }
+{ State: 'Florida', Temperature: 40 }
+{ State: 'Florida', Temperature: 40 }
+{ State: 'Florida', Temperature: 40 }
+{ State: 'Florida', Temperature: 40 }
+{ State: 'Florida', Temperature: 40 }
+{ State: 'Florida', Temperature: 39 }
+{ State: 'Florida', Temperature: 39 }
+{ State: 'Florida', Temperature: 38 }
+{ State: 'Florida', Temperature: 38 }
+{ State: 'Florida', Temperature: 38 }
+{ State: 'Florida', Temperature: 37 }
+{ State: 'Florida', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 57 }
+{ State: 'New Mexico', Temperature: 56 }
+{ State: 'New Mexico', Temperature: 55 }
+{ State: 'New Mexico', Temperature: 54 }
+{ State: 'New Mexico', Temperature: 54 }
+{ State: 'New Mexico', Temperature: 54 }
+{ State: 'New Mexico', Temperature: 54 }
+{ State: 'New Mexico', Temperature: 53 }
+{ State: 'New Mexico', Temperature: 53 }
+{ State: 'New Mexico', Temperature: 53 }
+{ State: 'New Mexico', Temperature: 52 }
+{ State: 'New Mexico', Temperature: 52 }
+{ State: 'New Mexico', Temperature: 52 }
+{ State: 'New Mexico', Temperature: 52 }
+{ State: 'New Mexico', Temperature: 51 }
+{ State: 'New Mexico', Temperature: 51 }
+{ State: 'New Mexico', Temperature: 51 }
+{ State: 'New Mexico', Temperature: 51 }
+{ State: 'New Mexico', Temperature: 51 }
+{ State: 'New Mexico', Temperature: 51 }
+{ State: 'New Mexico', Temperature: 51 }
+{ State: 'New Mexico', Temperature: 51 }
+{ State: 'New Mexico', Temperature: 50 }
+{ State: 'New Mexico', Temperature: 50 }
+{ State: 'New Mexico', Temperature: 50 }
+{ State: 'New Mexico', Temperature: 50 }
+{ State: 'New Mexico', Temperature: 50 }
+{ State: 'New Mexico', Temperature: 49 }
+{ State: 'New Mexico', Temperature: 49 }
+{ State: 'New Mexico', Temperature: 49 }
+{ State: 'New Mexico', Temperature: 49 }
+{ State: 'New Mexico', Temperature: 49 }
+{ State: 'New Mexico', Temperature: 49 }
+{ State: 'New Mexico', Temperature: 49 }
+{ State: 'New Mexico', Temperature: 48 }
+{ State: 'New Mexico', Temperature: 48 }
+{ State: 'New Mexico', Temperature: 48 }
+{ State: 'New Mexico', Temperature: 48 }
+{ State: 'New Mexico', Temperature: 48 }
+{ State: 'New Mexico', Temperature: 48 }
+{ State: 'New Mexico', Temperature: 47 }
+{ State: 'New Mexico', Temperature: 47 }
+{ State: 'New Mexico', Temperature: 47 }
+{ State: 'New Mexico', Temperature: 47 }
+{ State: 'New Mexico', Temperature: 47 }
+{ State: 'New Mexico', Temperature: 47 }
+{ State: 'New Mexico', Temperature: 47 }
+{ State: 'New Mexico', Temperature: 47 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 46 }
+{ State: 'New Mexico', Temperature: 45 }
+{ State: 'New Mexico', Temperature: 45 }
+{ State: 'New Mexico', Temperature: 45 }
+{ State: 'New Mexico', Temperature: 45 }
+{ State: 'New Mexico', Temperature: 45 }
+{ State: 'New Mexico', Temperature: 45 }
+{ State: 'New Mexico', Temperature: 45 }
+{ State: 'New Mexico', Temperature: 45 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 44 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 43 }
+{ State: 'New Mexico', Temperature: 42 }
+{ State: 'New Mexico', Temperature: 42 }
+{ State: 'New Mexico', Temperature: 42 }
+{ State: 'New Mexico', Temperature: 42 }
+{ State: 'New Mexico', Temperature: 42 }
+{ State: 'New Mexico', Temperature: 42 }
+{ State: 'New Mexico', Temperature: 42 }
+{ State: 'New Mexico', Temperature: 42 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 41 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 40 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 39 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 38 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 37 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 36 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 35 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 34 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 33 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 32 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 31 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 30 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 29 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 28 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 27 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 26 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 25 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 24 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 23 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 22 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 21 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 20 }
+{ State: 'New Mexico', Temperature: 19 }
+{ State: 'New Mexico', Temperature: 19 }
+{ State: 'New Mexico', Temperature: 19 }
+{ State: 'New Mexico', Temperature: 19 }
+{ State: 'New Mexico', Temperature: 19 }
+{ State: 'New Mexico', Temperature: 19 }
+{ State: 'New Mexico', Temperature: 19 }
+{ State: 'New Mexico', Temperature: 19 }
+{ State: 'New Mexico', Temperature: 19 }
+{ State: 'New Mexico', Temperature: 19 }
+{ State: 'New Mexico', Temperature: 18 }
+{ State: 'New Mexico', Temperature: 18 }
+{ State: 'New Mexico', Temperature: 18 }
+{ State: 'New Mexico', Temperature: 18 }
+{ State: 'New Mexico', Temperature: 18 }
+{ State: 'New Mexico', Temperature: 18 }
+{ State: 'New Mexico', Temperature: 18 }
+{ State: 'New Mexico', Temperature: 18 }
+{ State: 'New Mexico', Temperature: 17 }
+{ State: 'New Mexico', Temperature: 17 }
+{ State: 'New Mexico', Temperature: 17 }
+{ State: 'New Mexico', Temperature: 17 }
+{ State: 'New Mexico', Temperature: 17 }
+{ State: 'New Mexico', Temperature: 17 }
+{ State: 'New Mexico', Temperature: 17 }
+{ State: 'New Mexico', Temperature: 17 }
+{ State: 'New Mexico', Temperature: 16 }
+{ State: 'New Mexico', Temperature: 16 }
+{ State: 'New Mexico', Temperature: 16 }
+{ State: 'New Mexico', Temperature: 16 }
+{ State: 'New Mexico', Temperature: 16 }
+{ State: 'New Mexico', Temperature: 16 }
+{ State: 'New Mexico', Temperature: 16 }
+{ State: 'New Mexico', Temperature: 15 }
+{ State: 'New Mexico', Temperature: 15 }
+{ State: 'New Mexico', Temperature: 15 }
+{ State: 'New Mexico', Temperature: 15 }
+{ State: 'New Mexico', Temperature: 15 }
+{ State: 'New Mexico', Temperature: 15 }
+{ State: 'New Mexico', Temperature: 15 }
+{ State: 'New Mexico', Temperature: 14 }
+{ State: 'New Mexico', Temperature: 14 }
+{ State: 'New Mexico', Temperature: 14 }
+{ State: 'New Mexico', Temperature: 14 }
+{ State: 'New Mexico', Temperature: 14 }
+{ State: 'New Mexico', Temperature: 14 }
+{ State: 'New Mexico', Temperature: 14 }
+{ State: 'New Mexico', Temperature: 13 }
+{ State: 'New Mexico', Temperature: 13 }
+{ State: 'New Mexico', Temperature: 13 }
+{ State: 'New Mexico', Temperature: 13 }
+{ State: 'New Mexico', Temperature: 13 }
+{ State: 'New Mexico', Temperature: 13 }
+{ State: 'New Mexico', Temperature: 13 }
+{ State: 'New Mexico', Temperature: 12 }
+{ State: 'New Mexico', Temperature: 12 }
+{ State: 'New Mexico', Temperature: 12 }
+{ State: 'New Mexico', Temperature: 12 }
+{ State: 'New Mexico', Temperature: 12 }
+{ State: 'New Mexico', Temperature: 12 }
+{ State: 'New Mexico', Temperature: 12 }
+{ State: 'New Mexico', Temperature: 12 }
+{ State: 'New Mexico', Temperature: 12 }
+{ State: 'New Mexico', Temperature: 11 }
+{ State: 'New Mexico', Temperature: 11 }
+{ State: 'New Mexico', Temperature: 11 }
+{ State: 'New Mexico', Temperature: 11 }
+{ State: 'New Mexico', Temperature: 11 }
+{ State: 'New Mexico', Temperature: 11 }
+{ State: 'New Mexico', Temperature: 11 }
+{ State: 'New Mexico', Temperature: 10 }
+{ State: 'New Mexico', Temperature: 10 }
+{ State: 'New Mexico', Temperature: 10 }
+{ State: 'New Mexico', Temperature: 10 }
+{ State: 'New Mexico', Temperature: 10 }
+{ State: 'New Mexico', Temperature: 9 }
+{ State: 'New Mexico', Temperature: 9 }
+{ State: 'New Mexico', Temperature: 8 }
+{ State: 'New Mexico', Temperature: 8 }
+{ State: 'New Mexico', Temperature: 8 }
+{ State: 'New Mexico', Temperature: 7 }
+{ State: 'New Mexico', Temperature: 7 }
+{ State: 'New Mexico', Temperature: 6 }
+{ State: 'New Mexico', Temperature: 6 }
+{ State: 'New Mexico', Temperature: 5 }
+{ State: 'New Mexico', Temperature: 3 }
+{ State: 'New Mexico', Temperature: 3 }
+{ State: 'New Mexico', Temperature: 3 }
+{ State: 'New Mexico', Temperature: 3 }
+{ State: 'New Mexico', Temperature: 1 }
+{ State: 'New Mexico', Temperature: 1 }
+{ State: 'New Mexico', Temperature: 0 }
+{ State: 'New Mexico', Temperature: 0 }
+{ State: 'Vermont', Temperature: 57 }
+{ State: 'Vermont', Temperature: 55 }
+{ State: 'Vermont', Temperature: 52 }
+{ State: 'Vermont', Temperature: 51 }
+{ State: 'Vermont', Temperature: 51 }
+{ State: 'Vermont', Temperature: 51 }
+{ State: 'Vermont', Temperature: 49 }
+{ State: 'Vermont', Temperature: 46 }
+{ State: 'Vermont', Temperature: 45 }
+{ State: 'Vermont', Temperature: 45 }
+{ State: 'Vermont', Temperature: 45 }
+{ State: 'Vermont', Temperature: 44 }
+{ State: 'Vermont', Temperature: 44 }
+{ State: 'Vermont', Temperature: 44 }
+{ State: 'Vermont', Temperature: 44 }
+{ State: 'Vermont', Temperature: 44 }
+{ State: 'Vermont', Temperature: 44 }
+{ State: 'Vermont', Temperature: 43 }
+{ State: 'Vermont', Temperature: 43 }
+{ State: 'Vermont', Temperature: 43 }
+{ State: 'Vermont', Temperature: 42 }
+{ State: 'Vermont', Temperature: 42 }
+{ State: 'Vermont', Temperature: 42 }
+{ State: 'Vermont', Temperature: 42 }
+{ State: 'Vermont', Temperature: 42 }
+{ State: 'Vermont', Temperature: 42 }
+{ State: 'Vermont', Temperature: 42 }
+{ State: 'Vermont', Temperature: 41 }
+{ State: 'Vermont', Temperature: 41 }
+{ State: 'Vermont', Temperature: 41 }
+{ State: 'Vermont', Temperature: 41 }
+{ State: 'Vermont', Temperature: 41 }
+{ State: 'Vermont', Temperature: 41 }
+{ State: 'Vermont', Temperature: 41 }
+{ State: 'Vermont', Temperature: 41 }
+{ State: 'Vermont', Temperature: 41 }
+{ State: 'Vermont', Temperature: 40 }
+{ State: 'Vermont', Temperature: 40 }
+{ State: 'Vermont', Temperature: 40 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 39 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 38 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 37 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 36 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 35 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 34 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 33 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 32 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 31 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 30 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 29 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 28 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 27 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 26 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 25 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 24 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 23 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 22 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 21 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 20 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 19 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 18 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 17 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 16 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 15 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 14 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 13 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 12 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 11 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 10 }
+{ State: 'Vermont', Temperature: 9 }
+{ State: 'Vermont', Temperature: 9 }
+{ State: 'Vermont', Temperature: 9 }
+{ State: 'Vermont', Temperature: 9 }
+{ State: 'Vermont', Temperature: 9 }
+{ State: 'Vermont', Temperature: 9 }
+{ State: 'Vermont', Temperature: 9 }
+{ State: 'Vermont', Temperature: 8 }
+{ State: 'Vermont', Temperature: 8 }
+{ State: 'Vermont', Temperature: 8 }
+{ State: 'Vermont', Temperature: 8 }
+{ State: 'Vermont', Temperature: 8 }
+{ State: 'Vermont', Temperature: 8 }
+{ State: 'Vermont', Temperature: 8 }
+{ State: 'Vermont', Temperature: 8 }
+{ State: 'Vermont', Temperature: 8 }
+{ State: 'Vermont', Temperature: 7 }
+{ State: 'Vermont', Temperature: 7 }
+{ State: 'Vermont', Temperature: 7 }
+{ State: 'Vermont', Temperature: 7 }
+{ State: 'Vermont', Temperature: 7 }
+{ State: 'Vermont', Temperature: 7 }
+{ State: 'Vermont', Temperature: 7 }
+{ State: 'Vermont', Temperature: 7 }
+{ State: 'Vermont', Temperature: 6 }
+{ State: 'Vermont', Temperature: 6 }
+{ State: 'Vermont', Temperature: 6 }
+{ State: 'Vermont', Temperature: 5 }
+{ State: 'Vermont', Temperature: 5 }
+{ State: 'Vermont', Temperature: 5 }
+{ State: 'Vermont', Temperature: 4 }
+{ State: 'Vermont', Temperature: 3 }
+{ State: 'Vermont', Temperature: 3 }
+{ State: 'Vermont', Temperature: 2 }
+{ State: 'Vermont', Temperature: 1 }
+{ State: 'Vermont', Temperature: 1 }
+{ State: 'Vermont', Temperature: 1 }
+{ State: 'Vermont', Temperature: 0 }
+{ State: 'Vermont', Temperature: 0 }
+{ State: 'Vermont', Temperature: 0 }
+{ State: 'Vermont', Temperature: 0 }
+{ State: 'Vermont', Temperature: -1 }
+{ State: 'Vermont', Temperature: -2 }
+{ State: 'Vermont', Temperature: -3 }
+{ State: 'Vermont', Temperature: -3 }
+{ State: 'Vermont', Temperature: -5 }
+{ State: 'Vermont', Temperature: -6 }
+{ State: 'Vermont', Temperature: -6 }
+{ State: 'Vermont', Temperature: -7 }
+{ State: 'Vermont', Temperature: -7 }
+{ State: 'Vermont', Temperature: -7 }
+{ State: 'Vermont', Temperature: -7 }
+{ State: 'Vermont', Temperature: -7 }
+{ State: 'Vermont', Temperature: -8 }
+{ State: 'Vermont', Temperature: -8 }
+{ State: 'Vermont', Temperature: -8 }
+{ State: 'Vermont', Temperature: -9 }
+{ State: 'Vermont', Temperature: -9 }
+{ State: 'Vermont', Temperature: -9 }
+{ State: 'Vermont', Temperature: -9 }
+{ State: 'Vermont', Temperature: -9 }
+{ State: 'Vermont', Temperature: -9 }
+{ State: 'Vermont', Temperature: -9 }
+{ State: 'Vermont', Temperature: -9 }
+{ State: 'Vermont', Temperature: -9 }
+{ State: 'Vermont', Temperature: -10 }
+{ State: 'Vermont', Temperature: -10 }
+{ State: 'Vermont', Temperature: -10 }
+{ State: 'Vermont', Temperature: -10 }
+{ State: 'Vermont', Temperature: -10 }
+{ State: 'Vermont', Temperature: -11 }
