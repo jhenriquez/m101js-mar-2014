@@ -21,8 +21,6 @@ client.connect('mongodb://localhost:27017/weather', function(err, db) {
 			}
 		});
 
-		console.dir(month_highs);
-
 		db.collection('data').update({ $or : month_highs },{$set: {month_high : true}}, {multi : 1},
 			function(err, updated) {
 				if(err) throw err;
