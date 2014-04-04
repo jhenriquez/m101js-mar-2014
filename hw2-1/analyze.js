@@ -2,7 +2,7 @@
 
 var client = require('mongodb').MongoClient;
 
-client.connect('mongodb://localhost:27017/m101', function(err, db) {
+client.connect('mongodb://localhost:27017/weather', function(err, db) {
 	if(err) {
 	  console.log(err.message);
 	  return;
@@ -12,7 +12,7 @@ client.connect('mongodb://localhost:27017/m101', function(err, db) {
 	var projection = { 'State' : 1, Temperature : 1, 'Wind Direction' : 1,_id : 0 };
 	var options = { sort : { Temperature : 1 }, limit : 1 };
 
-	db.collection('hw2_1').find(query, projection, options).each(function(err, doc) {
+	db.collection('data').find(query, projection, options).each(function(err, doc) {
 		if(err) {
 			console.log(err.message);
 			return db.close();
