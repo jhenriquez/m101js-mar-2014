@@ -28,13 +28,12 @@ function UsersDAO(db) {
             user['email'] = email;
         }
 
-        users.insert(user, function(err, user) {
-            if(err) {
-                callback(err, null);
-            } else { 
-                callback(null, user);
-            }
-        });
+        function handleInsertCallback(err, documents) {
+            if(err) callback(err,null);
+            callback(null,user[0]);
+        }
+
+        users.insert(user, handleInsertCallback);
     }
 
     this.validateLogin = function(username, password, callback) {
