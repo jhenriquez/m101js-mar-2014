@@ -6,7 +6,7 @@ client.connect('mongodb://localhost:27017/weather', function(err, db) {
 	if(err) throw err;
 
 	var query = {};
-	var projection = { 'State' : 1, 'Day' : 1, 'Time' : 1, '_id' : 0 };
+	var projection = { 'State' : 1, 'Day' : 1, 'Time' : 1, '_id' : 1 };
 	var options = { sort : { State : 1, Temperature : -1 } };
 	var month_highs = [];
 	var currentState = '';
@@ -21,7 +21,7 @@ client.connect('mongodb://localhost:27017/weather', function(err, db) {
 			}
 		});
 
-		db.collection('data').update({ $or : month_highs },{$set: {month_high : true}}, {multi : 1},
+		db.collection('data').update({ $or : month_highs }, { $set: { month_high : true }}, {multi : 1},
 			function(err, updated) {
 				if(err) throw err;
 				console.log(updated + ' documents updted.');
