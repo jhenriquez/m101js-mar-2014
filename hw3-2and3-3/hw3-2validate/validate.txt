@@ -1,0 +1,4 @@
+Successfully created user
+Successfully created post
+Blog validated successfully!
+Your validation code is: a4FBvghXMFL65YPO9RGN
